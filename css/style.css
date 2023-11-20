@@ -7,6 +7,23 @@
 
 }
 
+/* Start: Google Maps Responsive */
+.map-responsive {
+    overflow:hidden;
+    padding-bottom:400px; /*Reduce este valor si el mapa fuera muy alto, por ejemplo 250px, puedes usar porcentajes, 50%*/
+    position:relative;
+    height:0;
+}
+
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+/* End: Google Maps Responsive */
+
 @font-face{
     font-family: 'roboto_condensed_light';
     src: url('../webfonts/robotocondensed-light-webfont.woff2') format('woff2'),
