@@ -488,7 +488,7 @@ body,html{
 		top: 0;
 		right: 0;
 		transform: translateX(300px);
-		background-color: #fff;
+		background-color: #343a40;
 	}
 	.header-navbar.active ul{
 		transform: translateX(0);
