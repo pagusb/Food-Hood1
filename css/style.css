@@ -271,14 +271,14 @@ body,html{
 	padding: 70px 0 40px 0;
 	font-family: 'poppinsregular', sans-serif;
 	background-color: #343a40/* rgb(251, 251, 251)*/;
-	color: var(--accent-color);
+	color: var(--color-one);
 }
 .footer-link{
 	text-decoration: none !important;
-	color: var(--accent-color);
+	color: var(--color-one);
 } 
 .footer-link:hover{
-	color: var(--accent-color);
+	color: var(--color-one);
 }
 
 /* estilos de contenedores web */
