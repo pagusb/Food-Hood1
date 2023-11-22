@@ -113,7 +113,7 @@ body,html{
 .header{
 	border-bottom: 1px solid rgba(0, 0, 0, .1);
 	position: relative;
-	color: #343a40 /*var(--text-color)*/;
+	color: var(--text-color);
 	display: flex;
 }
 .header-brand{
