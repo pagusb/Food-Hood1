@@ -113,7 +113,7 @@ body,html{
 .header{
 	border-bottom: 1px solid rgba(0, 0, 0, .1);
 	position: relative;
-	color: var(--text-color);
+	color: #343a40 /*var(--text-color)*/;
 	display: flex;
 }
 .header-brand{
@@ -325,7 +325,7 @@ body,html{
 }
 .card-product-price{
 	font-size: 35px;
-	color: #3273dc;
+	color: #EC5252;
 }
 .card-product-content{
 	height: 200px;
@@ -396,7 +396,7 @@ body,html{
 	max-width: 125px;
 	margin: 0 auto;
 	display: block;
-	box-shadow: 0 0 1px 3px #a80000;
+	box-shadow: 0 0 1px 3px #EC5252;
 	border-radius: 100%;
 }
 
