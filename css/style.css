@@ -241,10 +241,10 @@ body,html{
 }
 @keyframes banner{
 	0%{
-		background-image: url('../assets/img/banner_1.jpg');
+		background-image: url('../assets/img/ramencasero.jpg');
 	}
 	33%{
-		background-image: url('../assets/img/banner_1.jpg');
+		background-image: url('../assets/img/ramencasero.jpg');
 	}
 
 
